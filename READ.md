@@ -30,8 +30,8 @@ Source: https://mrdata.usgs.gov/major-deposits/
 
 ## Visualizations
 ### Top Glod Deposits Countries
-![Top Countries](images/top_gold_countries.png)
+![Top Countries](top_gold_countries.png)
 ### Gold Deposit Types
-![Deposit Types](images/gold_deposit_types.png)
+![Deposit Types](gold_deposit_types.png)
 
 ## By Dik Tri Martini
